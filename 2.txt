@@ -1,0 +1,4 @@
+milk 1L
+********
+
+apples 5 kg
